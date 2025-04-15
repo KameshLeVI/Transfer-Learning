@@ -28,7 +28,6 @@ Evaluate the model with test data loader and intepret the evaluation metrics suc
 
 
 ## PROGRAM
-Include your code here
 ```python
 # Load Pretrained Model and Modify for Transfer Learning
 model = models.vgg19(weights = models.VGG19_Weights.DEFAULT)
